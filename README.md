@@ -1,4 +1,4 @@
-# BlackHawk Hiring challenge(machine-coding)
+# Hiring challenge(machine-coding)
 [![Generic badge](https://img.shields.io/badge/build-passing-any.svg)](https://shields.io/)
 [![Generic badge](https://img.shields.io/badge/version-v0.0.1-blue.svg)](https://shields.io/)
 [![Generic badge](https://img.shields.io/badge/built%20wth-gradle-red.svg)](https://shields.io/)
